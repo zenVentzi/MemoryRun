@@ -1,0 +1,16 @@
+E:\Programsing\Programming\Unity\99Slides\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Programsing\Programming\Unity\99Slides\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Programsing\Programming\Unity\99Slides\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\Programsing\Programming\Unity\99Slides\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\Programsing\Programming\Unity\99Slides\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\Programsing\Programming\Unity\99Slides\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\Programsing\Programming\Unity\99Slides\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\Programsing\Programming\Unity\99Slides\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\Programsing\Programming\Unity\99Slides\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\Programsing\Programming\Unity\99Slides\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\Programsing\Programming\Unity\99Slides\obj\Debug\UnityVS.99Slides.CSharp.Plugins.csprojResolveAssemblyReference.cache
+E:\Programsing\Programming\Unity\99Slides\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Programsing\Programming\Unity\99Slides\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\Programsing\Programming\Unity\Projects\99Slides\obj\Debug\UnityVS.99Slides.CSharp.Plugins.csprojResolveAssemblyReference.cache
+E:\Programsing\Programming\Unity\Projects\99Slides\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Programsing\Programming\Unity\Projects\99Slides\obj\Debug\Assembly-CSharp-firstpass.pdb
